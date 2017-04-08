@@ -1,6 +1,6 @@
 {
   "name": "simple-react-icons",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-standard": "^10.2.0",
